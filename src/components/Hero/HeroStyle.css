@@ -1,0 +1,25 @@
+.hero
+{
+    background-image: url(../../assets/images/page-heading-bg.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 110px 0px;
+    text-align: center;
+    margin: auto;
+    margin-top:30px;
+    margin-bottom: 70px;
+    width:100%;
+}
+.info-hero{
+   display: block;
+}
+.info-hero button{
+    background-color: white;
+    padding: 10px 25px;
+    margin: 30px;
+    font-size: 14;
+}
+.info-hero h1{
+    color: white;
+}
